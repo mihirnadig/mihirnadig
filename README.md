@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mihirnadig
 - 👀 I’m interested in anything engineering related, with a strong bias for hardware
 - 🌱 I’m currently learning numerical methods 
-- 💞️ I’m looking to collaborate on Robotics
+- 🦾 I’m looking to collaborate on Robotics
 
 
 <!---
